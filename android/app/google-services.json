@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862926967489",
+    "firebase_url": "https://chattingapp-46920.firebaseio.com",
+    "project_id": "chattingapp-46920",
+    "storage_bucket": "chattingapp-46920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862926967489:android:fc027e2b4572a88706ba40",
+        "android_client_info": {
+          "package_name": "co.pruthvirajksm.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862926967489-08e3hv0kovmpjb5thjdt3b7g323e060j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhWXNkE8uqmP0UXT-zlCfq45Oz8Fq2No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862926967489-08e3hv0kovmpjb5thjdt3b7g323e060j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
